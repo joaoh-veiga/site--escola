@@ -27,3 +27,9 @@ color: white;
   .escola-imagem{    
        width: 25%;
   }
+
+.escola{
+  background-imagene: liner-gradient(#422E61,  #4EBFE9);
+  color: white;
+display: flex;
+}

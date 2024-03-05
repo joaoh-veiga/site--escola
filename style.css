@@ -1,4 +1,7 @@
- body {
+*{
+ margin: 0;
+ padding: 0;
+}
   background-color: #383D58;
 }
 header{
@@ -16,3 +19,9 @@ color: white;
    align-items: center;
    padding: 24px 0;
   }
+.cabecalho-lista-item{
+     display: inlini-block;
+ margin : 0 16px
+     font-size:24px;
+}
+      
